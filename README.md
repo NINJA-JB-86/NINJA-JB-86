@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NINJA-JB-86
-- 👀 I’m interested in Full Stack Development - Next.JS & Java
-- 🌱 I’m currently learning Next.JS & Web3
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning Nuxt.js
 - 💞️ I’m looking to collaborate on anything
 - 📫 Inbox me @ ninja.jb.dev@gmail.com
 
